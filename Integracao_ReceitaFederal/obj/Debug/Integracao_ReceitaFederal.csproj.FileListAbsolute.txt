@@ -1,0 +1,38 @@
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe.config
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.csproj.CopyComplete
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe.config
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal-master\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.csprojResolveAssemblyReference.cache
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe.config
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal - Copia\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.csprojResolveAssemblyReference.cache
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe.config
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Integracao_ReceitaFederal.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.csprojResolveAssemblyReference.cache
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.exe
+C:\Users\lucas.reis\Desktop\Integracao_ReceitaFederal\Integracao_ReceitaFederal\obj\Debug\Integracao_ReceitaFederal.pdb
